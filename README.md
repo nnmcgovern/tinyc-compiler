@@ -1,7 +1,5 @@
 # Tiny-C Compiler (Scanner & Parser Only)
 
-Scanner and parser for simplified C code.
-
 **Sample source.tinyc input file:**
 ```C
 i=1;
